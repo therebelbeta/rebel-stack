@@ -1,4 +1,17 @@
-restify-api-boilerplate
-=======================
+#Rebel Stack
+This is the stack I try to use on any side projects, aka my ideal stack
 
-A jumping off point for a restify API projects
+- Node.js
+ - Restify
+ - Bluebird
+ - Brototype
+ - Lodash
+ - Moment
+ - Numeral
+ - Unirest
+ - Gulp
+ - Vue.js
+ - Page
+ - Superagent
+ - Browserify
+ - Mocha
