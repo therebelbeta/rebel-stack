@@ -9,6 +9,7 @@ This is the stack I try to use on any side projects, aka my ideal stack
  - Moment
  - Numeral
  - Unirest
+ - Mongoose
  - Gulp
  - Vue.js
  - Page
