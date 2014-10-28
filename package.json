@@ -1,14 +1,14 @@
 {
-  "name": "therebelrobot.com",
+  "name": "rebel stack",
   "version": "1.0.0",
-  "description": "A new implementation of my portfolio website. W00t.",
+  "description": "A jumping off point for restify API projects",
   "main": "app.js",
   "scripts": {
     "test": "mocha test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/therebelrobot/therebelrobot.com-Oct2014.git"
+    "url": "https://github.com/therebelrobot/rebel-stack.git"
   },
   "keywords": [
     "portfolio",
@@ -20,12 +20,11 @@
   "author": "Trent Oswald <trentoswald@therebelrobot.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/therebelrobot/therebelrobot.com-Oct2014/issues"
+    "url": "https://github.com/therebelrobot/rebel-stack/issues"
   },
-  "homepage": "https://github.com/therebelrobot/therebelrobot.com-Oct2014",
+  "homepage": "https://github.com/therebelrobot/rebel-stack",
   "dependencies": {
     "bluebird": "^2.3.5",
-    "bootstrap": "^3.2.0",
     "brototype": "0.0.2",
     "browserify": "^6.0.3",
     "debug": "^2.0.0",
@@ -42,7 +41,6 @@
     "gulp-sass": "^1.0.0",
     "gulp-uglify": "^1.0.1",
     "gulp-util": "^3.0.1",
-    "jquery": "^2.1.1",
     "jshint-stylish": "^1.0.0",
     "lodash": "^2.4.1",
     "mocha": "^1.21.4",
