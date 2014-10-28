@@ -1,5 +1,5 @@
 #Rebel Stack
-This is the stack I try to use on any side projects, aka my ideal stack
+This is the stack I try to use on any side projects, my ideal stack
 
 - Node.js
  - Restify
